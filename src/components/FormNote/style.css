@@ -1,0 +1,24 @@
+
+.form{
+    font-family: "Sacramento", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.5rem;
+    background-color: rgb(244, 250, 219);
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    padding: 1%;
+    min-height: 100vh;
+}
+
+.form-title-input{
+padding-bottom: 2%;
+margin-bottom: 2%;
+}
+
+.form-button{
+    margin-top: 10%;
+    width: 33% ;
+    align-self: center;
+}
